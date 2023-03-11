@@ -5,7 +5,8 @@
   "keywords": [
     "laravel",
     "search",
-    "searchable"
+    "searchable",
+    "trait"
   ],
   "homepage": "https://github.com/yoursjarvis/laravel-serachable-trait",
   "autoload": {
@@ -30,5 +31,7 @@
       "url": "https://github.com/yoursjarvis/laravel-serachable-trait.git"
     }
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "prefer-stable": true
 }
