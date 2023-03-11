@@ -24,8 +24,7 @@
   "require": {
     "php": "^8.0",
     "illuminate/support": "*",
-    "illuminate/database": "*",
-    "yoursjarvis/laravel-searchable-trait": "^1.0.0"
+    "illuminate/database": "*"
   },
   "repositories": [
     {
