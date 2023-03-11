@@ -2,7 +2,7 @@
   "name": "yoursjarvis/laravel-searchable-trait",
   "description": "A small and simple Laravel package for adding search functionality to a models by adding a trait.",
   "type": "library",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "keywords": [
     "laravel",
     "search",
